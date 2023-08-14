@@ -1,6 +1,6 @@
 # hello-world
 #H1 the heading for readme-edits version
-**this is the bold text for readme-edits **
+----- remove line and add crosses to the next line for v3-testing
 for studying purposes
 A README is often the first item a visitor will see when visiting your repository. README files typically include information on:
 
