@@ -11,5 +11,10 @@ A README is often the first item a visitor will see when visiting your repositor
     Who maintains and contributes to the project
 
 If you put your README file in your repository's hidden .github, root, or docs directory, GitHub will recognize and automatically surface your README to repository visitors.
+###################################################
+######################################################
 
-If a repository contains more than one README file, then the file shown is chosen from locations in the following order: the .github directory, then the repository's root directory, and finally the docs directory.
+#for v2-testing i had remove next 2 string and add previous 2 strings
+
+ 
+ root directory, and finally the docs directory.
