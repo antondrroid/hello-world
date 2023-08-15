@@ -14,7 +14,4 @@ If you put your README file in your repository's hidden .github, root, or docs d
 ###################################################
 ######################################################
 
-#for v2-testing i had remove next 2 string and add previous 2 strings
 
- 
- root directory, and finally the docs directory.
