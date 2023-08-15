@@ -25,3 +25,5 @@ new text new
 edit as main_v1
 
 edit in branch 1 and push it to the branch main_2
+
+cloned from github main_2 branch to main_2 on projects directory
